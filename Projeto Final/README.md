@@ -6,7 +6,7 @@ No modo dois jogadores o jogo deve acabar quando um dos dois jogadores acertar 5
 
 No modo um jogador o jogador é vitorioso caso acerte 7 ou mais perguntas de 10.
 
-##Casos de uso
+## Casos de uso
 
 Iniciando o jogo é necessário selecionar qual o modo de jogo um ou dois jogadores, seguido do tema das perguntas do jogo, ao clicar em começar a primeira pergunta é apresentada e começa a contagem para responder:
 
