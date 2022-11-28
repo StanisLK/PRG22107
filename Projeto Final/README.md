@@ -1,4 +1,6 @@
-# PROJETO FINAL: SOFTWARE PARA VISUALIZAÇÃO DE DADOS DE MICROCONTROLADORES (ARDUINO)
-O programa consiste em selecionar dados de uma entrada serial (COM), escolhendo a forma de visualizar cada dado que o microcontrolador está fornecendo. A visualização pode ser de forma gráfica ou simplesmente numerica, o software deve ser capaz de formatar os dados para que os valores da entrada serial sejam convertidos para uma escala de uma medida real (tensão por exemplo). O programa deve ser capaz de fornecer a visualização de mais de 1 dado por vez.
+# PROJETO FINAL: JOGO MODELO "QUIZ" MULTIPLAYER OU SINGLEPLAYER
 
-https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/
+O jogo deve começar perguntando ao usuario qual o modo de jogo desejado (multiplayer ou singleplayer), em seguida será selecionado o tema do quiz, começando o jogo. As rodadas terão tempo limite de 10 segundos para cada pergunta.
+No modo multiplayer o jogo deve acabar quando um dos dois jogadores acertar 5 perguntas primeiro.
+No modo singleplayer o jogador é vitorioso caso acerte 7 ou mais perguntas de 10.
+
