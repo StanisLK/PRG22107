@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1670770996 source:c:\users\stanis\documents\quizfhoda\main.cpp
+	<iostream>
+	"Jogo.h"
+	"Perguntas.h"
+
+1670801321 source:c:\users\stanis\documents\quizfhoda\src\jogo.cpp
+	"Jogo.h"
+	"Perguntas.h"
+	"umjogador.h"
+	"doisjogadores.h"
+	<iostream>
+	<string>
+	<stdio.h>
+
+1670796850 c:\users\stanis\documents\quizfhoda\include\jogo.h
+
+1670788484 c:\users\stanis\documents\quizfhoda\include\perguntas.h
+	<iostream>
+	<string>
+	"Jogo.h"
+
+1670795764 source:c:\users\stanis\documents\quizfhoda\src\perguntas.cpp
+	"Perguntas.h"
+	<iostream>
+	<string>
+	"Jogo.h"
+
+1670802532 source:c:\users\stanis\documents\quizfhoda\src\umjogador.cpp
+	"umjogador.h"
+	<iostream>
+	<string>
+	<stdio.h>
+
+1670778698 c:\users\stanis\documents\quizfhoda\include\umjogador.h
+	"Jogo.h"
+	"Perguntas.h"
+	<iostream>
+	<string>
+	<stdio.h>
+
+1670802735 source:c:\users\stanis\documents\quizfhoda\src\doisjogadores.cpp
+	"doisjogadores.h"
+	<iostream>
+	<string>
+	<stdio.h>
+
+1670779631 c:\users\stanis\documents\quizfhoda\include\doisjogadores.h
+	"Jogo.h"
+	"Perguntas.h"
+	<iostream>
+	<string>
+	<stdio.h>
+
